@@ -2,5 +2,5 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/Forms_/'
+  base: '/Forms_/',
 })
