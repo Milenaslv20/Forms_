@@ -1,4 +1,3 @@
-import { Outlet } from "react-router-dom";
 import Welcome from "../pages/Welcome";
 
 import { useEffect, useState } from "react";
