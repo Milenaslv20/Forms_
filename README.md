@@ -1,15 +1,30 @@
-# React + TypeScript + Vite
+# Forms
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Forms is a webpage register project .
 
-Currently, two official plugins are available:
+Currently, a githubpages link is available to acess the frontend and a netlify link to use front and backend functionalities:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Githubpages link](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)
+- [Netlify link](https://github.com/vitejs/vite-plugin-react-swc) 
 
-## Expanding the ESLint configuration
+## Index
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+1.About
+2.Tecnologies
+3.Use
+4.Creator
+
+### About
+jksajksalsjlaklsj
+
+### Tecnologies
+lfjsdljlsdkjld
+
+### Use
+fdkjfjlskd
+
+### Creator
+
 
 - Configure the top-level `parserOptions` property like this:
 
