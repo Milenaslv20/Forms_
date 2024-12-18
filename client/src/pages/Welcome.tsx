@@ -20,8 +20,10 @@ function Welcome() {
 
         <div className="right-side">
             <span className="text-8xl font-bold text-left inset-x-50px relative top-56 left-40">Welcome to forms</span>
-            <Button to="/login" label="Login"/>
-            <Button to="/signup" label="Sign Up"/>
+            <div className="mt-60 ms-64 ">
+              <Button to="/login" label="Login"/>
+              <Button to="/signup" label="Sign Up"/>
+            </div>
         </div>
     </div>
   )
